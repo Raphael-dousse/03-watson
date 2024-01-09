@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: sticky;
+  flex-shrink: 0;
+  background: #222;
+  padding: 25px 23px;
+}
+
+.header-logo {
+  width: 159px;
+  height: 42px;
+  flex-shrink: 0;
+}
+
+.header-menu {
+  width: 47px;
+  height: 27px;
+  flex-shrink: 0;
+}
