@@ -1,0 +1,38 @@
+.podium {
+  margin: 60px 0 60px 0;
+}
+
+.podium-number {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 40px 20px;
+  background: #7cd401;
+  margin-top: 50px;
+}
+
+.podium-title {
+  color: #fff;
+  text-align: center;
+  font-family: Raleway;
+  font-size: 161px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 93px; /* 57.764% */
+  display: flex;
+  width: 160px;
+  height: 123px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.podium-text {
+  color: #fff;
+  /* text-style-3 */
+  font-family: Raleway;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 24px; /* 141.176% */
+}

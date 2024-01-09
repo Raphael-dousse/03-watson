@@ -1,0 +1,32 @@
+.medium-article-title {
+  padding: 28px 25px;
+}
+
+.medium-article img {
+  width: 100%;
+  height: 328px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+.medium-article-text {
+  padding: 25px;
+}
+
+.medium-pub {
+  width: 100%;
+  height: 328px;
+  flex-shrink: 0;
+  border: 5px solid #c4007a;
+  background: url(/src/img//pub.jpg), lightgray 50% / cover no-repeat;
+  padding: 20px 23px 60px 23px;
+}
+
+.medium-pub-sticker {
+  width: 117px;
+  height: 32px;
+  flex-shrink: 0;
+  background-color: #c4007a;
+  border-bottom-right-radius: 5px;
+  padding: 7px;
+}
